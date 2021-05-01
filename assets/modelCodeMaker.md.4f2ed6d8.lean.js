@@ -1,1 +1,0 @@
-import{o as e,c as t,b as r}from"./app.fe287ec6.js";const a='{"title":"","description":"","frontmatter":{},"relativePath":"modelCodeMaker.md","lastUpdated":1619251370211}',o={},d=r("p",null,"🚧 施工中，敬请期待",-1);o.render=function(r,a,o,l,n,p){return e(),t("div",null,[d])};export default o;export{a as __pageData};
