@@ -1,1 +1,0 @@
-import{o as t,c as r,b as e}from"./app.f0c10aae.js";const a='{"title":"","description":"","frontmatter":{},"relativePath":"drivers/custom-driver.md","lastUpdated":1619883393050}',o={},d=e("p",null,"待续 🐸",-1);o.render=function(e,a,o,i,n,s){return t(),r("div",null,[d])};export default o;export{a as __pageData};
